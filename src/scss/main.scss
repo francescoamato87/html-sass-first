@@ -1,0 +1,21 @@
+// Variables
+$primary-color: blue;
+$background-color:#fff;
+$text-color:black;
+
+
+body{
+  background: gold;
+  color:#fff;
+
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  color:$primary-color;
+}
+
+.stand{
+  color:$primary-color;
+}

@@ -1,0 +1,19 @@
+body {
+  background: gold;
+  color: #fff;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: blue;
+}
+
+.stand {
+  color: blue;
+}
+
+.img {
+  width: 400px;
+}
+
